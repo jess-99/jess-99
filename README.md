@@ -1,7 +1,7 @@
 [![MasterHead](https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP)]()
 <h1 align="center">Hi 👋, I'm Jessica Safwat</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/fullscreen")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/fullscreen">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jess-99&label=Profile%20views&color=0e75b6&style=flat" alt="jess-99" /> </p>
 
